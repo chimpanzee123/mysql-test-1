@@ -7,22 +7,20 @@ mysql> show databases;
 | Database           |
 +--------------------+
 | information_schema |
-| fudain             |
 | mysql              |
 | performance_schema |
 | sys                |
 +--------------------+
-5 rows in set (0.00 sec)
+4 rows in set (0.03 sec)
 
-mysql> use masql;
-ERROR 1049 (42000): Unknown database 'masql'
 mysql> use mysql;
 Database changed
 mysql> create table biao(id int);
-Query OK, 0 rows affected (0.04 sec)
+Query OK, 0 rows affected (0.09 sec)
 
 mysql> create table biaoge(dd varchar(20));
-Query OK, 0 rows affected (0.04 sec)
+Query OK, 0 rows affected (0.02 sec)
+
 ```
 
 ## 题目2：如何join两张表
