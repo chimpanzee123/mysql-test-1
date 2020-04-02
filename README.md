@@ -1,4 +1,5 @@
 ## 题目1：建立一个mysql database, 包含以下两张表：
+姓名李昊骏 学号17061411
 
 ```sql
 mysql> show databases; 
