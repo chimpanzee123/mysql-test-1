@@ -101,7 +101,8 @@ desc t_dept1;
 alter table t_dept9 drop gname;
 desc t_dept9;
 ```
-
+执行上面SQL语句结果显示如图所示：
+![](https://github.com/chimpanzee123/mysql-test-1/blob/master/29.png?raw=true)
 6.修改字段
 修改字段的数据类型
 执行命令如下:
