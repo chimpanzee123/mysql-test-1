@@ -67,7 +67,7 @@
 修改字段的顺序
 执行命令如下:
 执行上面SQL语句结果显示如图所示：
-![](https://github.com/chimpanzee123/mysql-test-1/blob/master/12.png?raw=true)
+
 四、操作表的约束
 执行命令如下:
 执行上面SQL语句结果显示如图所示：
