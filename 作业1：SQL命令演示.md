@@ -3,6 +3,7 @@
 1.创建一个新的数据库
 执行命令如下:
 执行上面SQL语句结果显示如图所示：
+![](https://github.com/chimpanzee123/mysql-test-1/blob/master/1.png?raw=true)
 2.查看和选择数据库：
 执行命令如下：
 执行上面SQL语句结果显示如图所示：
